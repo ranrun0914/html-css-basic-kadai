@@ -1,0 +1,24 @@
+.blue {
+  color: lightblue; 
+}
+
+.pink {
+  color: pink;
+}
+
+body {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    letter-spacing: 1.2em;            
+    text-shadow: 2px 2px 4px gray;   
+    text-align: center;               
+    border-bottom: 2px solid black;    
+    padding-bottom: 3px;             
+}    
+
+div p {
+  font-weight:bold;
+}
